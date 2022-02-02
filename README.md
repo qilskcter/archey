@@ -3,4 +3,4 @@
 - copy this code
 > `sh -c "$(curl -fsSL https://raw.githubusercontent.com/qilskcter/logo-apple/main/archey)"`
 # Screenshot
-![Screenshot](Screenshots/Screenshot.png)
+![Screenshot](Screenshot.png)

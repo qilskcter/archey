@@ -212,11 +212,3 @@ ${BLUE#   }        ################              ${fieldlist[12]}
 ${BLUE#   }         ####     #####               ${fieldlist[13]}
 ${normal}                                      
 "
-fi
-echo "${GREEN#  }           ## ##      ##     ## ##         ##     ##     ";
-echo "${YELLOW# }           ##  ##     ##     ##   ##       ##   ##       ";
-echo "${RED#    }           ##   ##    ##     ##     ##     ## ##         ";
-echo "${RED#    }           ##    ##   ##     ##     ##     ##  ##        ";
-echo "${PURPLE# }           ##     ##  ##     ##   ##       ##    ##      ";
-echo "${BLUE#   }           ##      ## ##     ## ##         ##      ##    ";
-echo "${normal}                                                                                                                         ";
